@@ -5,7 +5,7 @@
 Me chamo Anna Beatriz, tenho 20 anos e sou de Praia Grande-SP. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC. Sou apaixonada por tecnologia e estou sempre em busca de explorar mais sobre esse mundo. É muito gratificante ver o quanto a tecnologia pode ajudar em diferentes áreas e me empolga muito a possibilidade de contribuir com inovação e eficiência, tanto para meus projetos pessoais quanto para futuras oportunidades profissionais..
 
 <p align="left">
-    <a href="https://instagram.com/annaaa.olii" target="_blank">
+    <a href="https://instagram.com/annaaa.oli" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
      <a href = "mailto:annabeatriz.oliveirarib@gmail.com">
